@@ -65,17 +65,44 @@ Output:
 8
 0
 ```
-Explanation:
-```
-Test Case 1: [ 5 - 2 ] = 3
 
-Test Case 2: [ 7 - 2 ] = 5
 
-Test Case 3: No prime number in the given range. Output = -1
 
-Test Case 4: [ 19 - 11 ] = 8
 
-Test Case 5: The difference would be 0 since there is only one prime number in the given range.
-```
-    
+```` Jangan Ditampilin -------------------------
+Tolong Jadiin Test case
+Case 1: 
+Input:
+2
+7 20
+7 25
+Output: 
+12
+16
+
+Case 2: 
+Input:
+5
+20 10
+20 11
+21 55
+55 23
+21 32
+Output:
+-1
+-1
+30
+-1
+8
+
+Case 3:
+Input:
+3
+7 99
+4 29
+8 18
+Output:
+90
+24
+6   
       
