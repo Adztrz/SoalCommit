@@ -12,14 +12,21 @@ Print the answer in a new line.
 1≤a, b, x, y≤103
 
 Sample Input 1:
+```
 2 4 4 5
+```
 Sample Output 1:
+```
 28
-
+```
 Sample Input 2:
+```
 1 1 4 8
+```
 Sample Output 2:
+```
 12
+```
 
 ### Test Case
 ```
