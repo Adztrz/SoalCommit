@@ -1,5 +1,7 @@
-## You're given a number N. Print the first N lines of the below-given pattern.
+# Pola Angka
+
 ```
+You're given a number N. Print the first N lines of the below-given pattern.
 1 2 3 4 5
 10 9 8 7 6
 11 12 13 14 15
