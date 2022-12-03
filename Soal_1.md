@@ -69,8 +69,9 @@ Output:
 
 
 
-```` Jangan Ditampilin -------------------------
+
 Tolong Jadiin Test case
+```
 Case 1: 
 Input:
 2
@@ -79,7 +80,8 @@ Input:
 Output: 
 12
 16
-
+```
+```
 Case 2: 
 Input:
 5
@@ -94,7 +96,8 @@ Output:
 30
 -1
 8
-
+```
+```
 Case 3:
 Input:
 3
@@ -105,4 +108,4 @@ Output:
 90
 24
 6   
-      
+```   
