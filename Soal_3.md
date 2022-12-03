@@ -9,7 +9,9 @@ First-line will contain 4 space separated integers a, b, x and y respectively.
 Print the answer in a new line.
 
 ### Constraints
+```
 1≤a, b, x, y≤103
+```
 
 Sample Input 1:
 ```
