@@ -15,10 +15,14 @@ First-line will contain the number N.
 Print the first N lines of the given pattern.
 
 ### Constraints
+```
 1≤N≤200
+```
 
 ### Sample Input 1:
+```
 4
+```
 ### Sample Output 1:
 ```
 1 2 3 4 5
@@ -27,7 +31,9 @@ Print the first N lines of the given pattern.
 20 19 18 17 16
 ```
 ### Sample Input 2:
+```
 2
+```
 ### Sample Output 2:
 ```
 1 2 3 4 5
